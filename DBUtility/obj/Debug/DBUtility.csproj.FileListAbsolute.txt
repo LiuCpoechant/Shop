@@ -1,0 +1,13 @@
+C:\Users\我的大大\Desktop\毕业设计\shop\DBUtility\bin\Debug\Shop.DBUtility.dll
+C:\Users\我的大大\Desktop\毕业设计\shop\DBUtility\bin\Debug\Shop.DBUtility.pdb
+C:\Users\我的大大\Desktop\毕业设计\shop\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\我的大大\Desktop\毕业设计\shop\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\我的大大\Desktop\毕业设计\shop\DBUtility\obj\Debug\Shop.DBUtility.dll
+C:\Users\我的大大\Desktop\毕业设计\shop\DBUtility\obj\Debug\Shop.DBUtility.pdb
+F:\毕业设计\shop\DBUtility\bin\Debug\Shop.DBUtility.dll
+F:\毕业设计\shop\DBUtility\bin\Debug\Shop.DBUtility.pdb
+F:\毕业设计\shop\DBUtility\bin\Debug\MySql.Data.dll
+F:\毕业设计\shop\DBUtility\bin\Debug\System.Data.SQLite.DLL
+F:\毕业设计\shop\DBUtility\obj\Debug\Shop.DBUtility.dll
+F:\毕业设计\shop\DBUtility\obj\Debug\Shop.DBUtility.pdb
+F:\毕业设计\shop\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\我的大大\Desktop\毕业设计\shop\Model\bin\Debug\Shop.Model.dll
+C:\Users\我的大大\Desktop\毕业设计\shop\Model\bin\Debug\Shop.Model.pdb
+C:\Users\我的大大\Desktop\毕业设计\shop\Model\obj\Debug\Shop.Model.dll
+C:\Users\我的大大\Desktop\毕业设计\shop\Model\obj\Debug\Shop.Model.pdb
+F:\毕业设计\shop\Model\bin\Debug\Shop.Model.dll
+F:\毕业设计\shop\Model\bin\Debug\Shop.Model.pdb
+F:\毕业设计\shop\Model\obj\Debug\Shop.Model.dll
+F:\毕业设计\shop\Model\obj\Debug\Shop.Model.pdb
+F:\毕业设计\shop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
